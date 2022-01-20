@@ -36,7 +36,7 @@ You may want to view a list of commands, just `/help category <name>` and Nate B
 				footer-icon="https://i.imgur.com/U8SEa9L.jpg"
 			>
 				<i>Useful links, info and stats.</i><br><br>
-                <code>about</code> <code>avatar</code> <code>credits</code> <code>help</code> <code>info</code> <code>link</code> <code>ping</code> <code>servericon</code> <code>stats</code> <code>modify</code>
+                <code>about</code> <code>avatar</code> <code>credits</code> <code>help</code> <code>info</code> <code>link</code> <code>ping</code> <code>servericon</code> <code>stats</code>
 				<template #footer>
 					<span>• Listing 10 Commands.<br>• Run /help command &lt;name&gt; for Direct Command Help.</span>
 				</template>

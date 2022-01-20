@@ -21,5 +21,39 @@ export default {
 				'/general/contact.md',
 			],
 		},
+		{
+			text: 'Common Problems',
+			children: [
+				'/common-problems/invite-troubleshooting.md',
+				'/common-problems/missing-permissions.md',
+				'/common-problems/role-too-low.md',
+				'/common-problems/not-responding.md',
+				'/common-problems/economy-store-purchase-problems.md',
+			],
+		},
+		{
+			text: 'Moderation',
+			children: [
+				'/moderation/action-command.md',
+				'/moderation/undo-command.md',
+				'/moderation/warnings.md',
+				'/moderation/purging-messages.md',
+			],
+		},
+		{
+			text: 'Info',
+			children: [
+				'/info/link-command-reference.md',
+			],
+		},
+		{
+			text: 'Other',
+			children: [
+				'/other/ranks.md',
+				'/other/data-storage.md',
+				'/other/extra-statistics.md',
+				'/other/natebot-software.md',
+			],
+		},
 	],
 };
