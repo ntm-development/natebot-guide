@@ -25,8 +25,8 @@ export default defineClientAppEnhance(({ app }) => {
 		},
 		profiles: {
 			user: {
-				author: 'User',
-				avatar: 'blue',
+				author: 'Nate',
+				avatar: 'https://i.imgur.com/U8SEa9L.jpg',
 			},
 			bot: {
 				author: 'Nate Bot',
