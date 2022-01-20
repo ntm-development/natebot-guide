@@ -1,13 +1,13 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://support.natebot.xyz"><img src="https://natebot.xyz/static/FullLogo.png" width="546" alt="NateBot" /></a>
+    <a href="https://support.natebot.xyz"><img src="https://natebot.xyz/static/FullLogo.png" width="546" alt="Nate Bot Logo" /></a>
   </p>
   <br />
 </div>
 
 # About
-This repository holds the pages for the support website for NateBot.
+This repository holds the pages for the support website for Nate Bot.
 
 ### https://support.natebot.xyz/
 

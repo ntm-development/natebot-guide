@@ -21,7 +21,7 @@ import '@discord-message-components/vue/dist/style.css';
 export default defineClientAppEnhance(({ app }) => {
 	app.use(DiscordMessageComponents, {
 		avatars: {
-			logo: 'https://natebot.xyz/static/NateBio.jpg',
+			logo: 'https://cdn.weebyapi.xyz/img/natebot/static/Icon.png',
 		},
 		profiles: {
 			user: {
@@ -29,7 +29,7 @@ export default defineClientAppEnhance(({ app }) => {
 				avatar: 'blue',
 			},
 			bot: {
-				author: 'NateBot',
+				author: 'Nate Bot',
 				avatar: 'logo',
 				bot: true,
 			},

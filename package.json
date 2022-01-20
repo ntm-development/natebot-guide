@@ -1,6 +1,6 @@
 {
     "name": "natebot-guide",
-    "description": "Support portal for NateBot.",
+    "description": "Support portal for Nate Bot.",
     "version": "1.0.0",
     "private": true,
     "scripts": {
