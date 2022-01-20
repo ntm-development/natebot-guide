@@ -4,6 +4,6 @@ module.exports = {
 	plugins: ['markdown'],
 	rules: {
 		semi: ['error', 'always'],
-		'linebreak-style': 'CRLF',
+		'linebreak-style': ['off', 'windows'],
 	},
 };
