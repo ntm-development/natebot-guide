@@ -41,6 +41,15 @@ export default {
 			],
 		},
 		{
+			text: 'Roleplay',
+			children: [
+				'/roleplay/roleplay-system-guide.md',
+				'/roleplay/marriages.md',
+				'/roleplay/friends.md',
+				'/roleplay/affinity-calculations.md'
+			],
+		},
+		{
 			text: 'Info',
 			children: [
 				'/info/link-command-reference.md',
