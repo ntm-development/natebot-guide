@@ -14,7 +14,6 @@ Now, users can enter the giveaway! Just simply click on the green **Enter This G
 
 ![Giveaway Entry](./images/giveaway-enter.png)
 
-
 ## Editing Active Giveaways
 ### Prize
 

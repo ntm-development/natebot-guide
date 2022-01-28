@@ -6,17 +6,23 @@ The ship subcommand requires two users to be mentioned. From here, it will calcu
 Then, a ship name is picked. The actual calculation formula is a secret but it is designed to determine the best ship name possible!
 
 To ship users, run:
-`/affinity ship <firstuser> <seconduser>`
+**`/affinity ship <firstuser> <seconduser>`**
 
 ![Ship Embed](./images/shipembed.png)
 
 ## Calculate
 The calculate subcommand requires the user to mention another user and it will result in a calculated rating out of **100**.
 
+To calculate a user, run:
+**`/affinity calculate <user>`**
+
 ![Calculate Embed](./images/calculate.png)
 
 ## Love Calc
 Similar to the calculate subcommand, this will require two users to be mentioned and will return a calculation on a percentage from **0-100%**.
+
+To calculate love between two users, run:
+**`/affinity lovecalc <firstuser> <seconduser>`**
 
 ![Lovecalc Embed](./images/lovecalcembed.png)
 

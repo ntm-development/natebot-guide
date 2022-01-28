@@ -41,14 +41,6 @@ export default {
 			],
 		},
 		{
-			text: 'Utility',
-			children: [
-				'/utility/giveaways.md',
-				'/utility/polls.md',
-				'/utility/util-command-guide.md',
-			]
-		},
-		{
 			text: 'Roleplay',
 			children: [
 				'/roleplay/roleplay-system-guide.md',
@@ -56,6 +48,23 @@ export default {
 				'/roleplay/friends.md',
 				'/roleplay/affinity-calculations.md'
 			],
+		},
+		{
+			text: 'Settings',
+			children: [
+				'/settings/modify-command-guide.md',
+				'/settings/welcomer.md',
+				'/settings/booster.md',
+				'/settings/selectroles.md',
+			]
+		},
+		{
+			text: 'Utility',
+			children: [
+				'/utility/giveaways.md',
+				'/utility/polls.md',
+				'/utility/util-command-guide.md',
+			]
 		},
 		{
 			text: 'Info',
