@@ -46,6 +46,15 @@ export default {
 				'/utility/giveaways.md',
 				'/utility/polls.md',
 				'/utility/util-command-guide.md',
+			]
+		},
+		{
+			text: 'Roleplay',
+			children: [
+				'/roleplay/roleplay-system-guide.md',
+				'/roleplay/marriages.md',
+				'/roleplay/friends.md',
+				'/roleplay/affinity-calculations.md'
 			],
 		},
 		{
