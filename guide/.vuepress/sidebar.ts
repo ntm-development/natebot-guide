@@ -41,6 +41,14 @@ export default {
 			],
 		},
 		{
+			text: 'Utility',
+			children: [
+				'/utility/giveaways.md',
+				'/utility/polls.md',
+				'/utility/util-command-guide.md',
+			],
+		},
+		{
 			text: 'Info',
 			children: [
 				'/info/link-command-reference.md',
