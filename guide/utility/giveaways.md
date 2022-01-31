@@ -1,7 +1,7 @@
 # Giveaways Guide
-The giveaways system is a very intuitive system that allows you to create and manage giveaways in your server.
+The giveaways system is a very intuitive system that allows you to create and manage giveaways in your server. To view the list of command, you will need to type **`/giveaway`**, and it will return a list of available commands.
 
-To view the list of command, you will need to type **`/giveaway`**, and it will return a list of available commands.
+You will need to have the <kbd>Manage Server</kbd> permission to use the warning system.
 
 ![Giveaways Command List](./images/giveaways-commandlist.png)
 
