@@ -54,6 +54,14 @@ export default {
 			]
 		},
 		{
+			text: 'Games',
+			children: [
+				'/games/games-offered.md',
+				'/games/leaderboards.md',
+				'/games/fishing-rewards.md',
+			]
+		},
+		{
 			text: 'Roleplay',
 			children: [
 				'/roleplay/roleplay-system-guide.md',
