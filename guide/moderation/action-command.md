@@ -18,5 +18,5 @@ Base command is **`/action`** and this guide will explain how each works!
 <hr>
 
 ::: tip
-If you are looking for how to manage warnings, you can check out the [Warnings Guide](./utility/warnings.md).
+If you are looking for how to manage warnings, you can check out the [Warnings Guide](./warnings.md).
 :::

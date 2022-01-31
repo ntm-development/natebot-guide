@@ -12,5 +12,5 @@ The Base command is **`/undo`**.
 <hr>
 
 ::: tip
-If you are looking for how to manage warnings, you can check out the [Warnings Guide](./utility/warnings.md).
+If you are looking for how to manage warnings, you can check out the [Warnings Guide](./warnings.md).
 :::

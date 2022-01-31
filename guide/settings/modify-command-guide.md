@@ -1,9 +1,11 @@
 # Modify Command Guide
 The modify command comes with a series of subcommands that allow you to modify various aspects of your server.
 
-The Base command is **`/modify`**.
+The base command is **`/modify`**.
 
 ![Modify Command List](./images/modify-commandlist.png)
+
+The <kbd>Manage Server</kbd> permission is required to use this command.
 
 ## Server Name
 This will allow you to change the server name. The name can be up to 32 characters long and all you need to do is run **`/modify name`**.
