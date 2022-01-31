@@ -41,6 +41,19 @@ export default {
 			],
 		},
 		{
+			text: 'Economy',
+			children: [
+				'/economy/managing-my-cosmetics.md',
+				'/economy/transfer-money.md',
+				'/economy/the-vault.md',
+				'/economy/streaks.md',
+				'/economy/power-ups.md',
+				'/economy/view-command.md',
+				'/economy/economy-store-guide.md',
+				'/economy/managing-badges.md',
+			]
+		},
+		{
 			text: 'Roleplay',
 			children: [
 				'/roleplay/roleplay-system-guide.md',

@@ -1,5 +1,4 @@
 # Purging Messages
-
 To purge messages like spam, or just to clear a channel. You can simply run the **`/purge <amount>`** slash command. By doing this, you can delete up to a maximum of **100** messages per command use.
 
 ![Purge Success](./images/purge-success.png)
