@@ -24,3 +24,9 @@ The <kbd>Manage Roles</kbd> permission is required to use this command.
 ### Color
 
 ### Select Menu Placeholder
+
+<hr>
+
+::: tip
+- Sometimes the option in the select menu may not work properly. To fix this, you may need to restart your Discord client.
+:::
