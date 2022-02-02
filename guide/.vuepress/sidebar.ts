@@ -76,7 +76,6 @@ export default {
 				'/settings/modify-command-guide.md',
 				'/settings/welcomer.md',
 				'/settings/booster.md',
-				'/settings/selectroles.md',
 			]
 		},
 		{
