@@ -36,6 +36,10 @@ This is what it will look like when they're timed out.
 
 ![Timeout](./images/timeout.png)
 
+::: tip
+To learn more about the Discord Timeout Feature, check out this [guide](https://support.discord.com/hc/en-us/articles/4413305239191-Time-Out-FAQ) from Discord.
+:::
+
 ## Voice Kick
 This will kick a user from the voice channel they are in. You can optionally add a reason for the kick.
 
