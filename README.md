@@ -13,3 +13,7 @@ This repository holds the pages for the support website for Nate Bot.
 
 ## Credits
 This website was originally created and designed by Discord.js, see the `package.json` file for more info.
+
+<a href="https://www.netlify.com">
+	<img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" />
+</a>
