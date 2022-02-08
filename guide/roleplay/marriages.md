@@ -1,11 +1,7 @@
 # Marriages
-You can marry, or divorce user using the **`/relationship`** command. The following sub-commands are as listed:
-
-![Relationship Command List](./images/relationship-commandlist.png)
-
 ## Marrying a User
 Make sure you, and the user are in the same user as you. To marry a user, run the following command:
-**`/relationship marry <user>`**
+**`/marry <user>`**
 
 Once you do so, the confirmation embed will be sent for the other user to confirm by clicking the buttons.
 
@@ -15,7 +11,7 @@ If the user clicks **Yes, I do!**, You are now a married couple. Congratulations
 
 ![Marry Success](./images/marry-success.png)
 
-Now you can check the marriage status by running the **`/relationship view`** command. The embed will display information such as who you are married to, the date and the friends you have.
+Now you can check the marriage status by running the **`/relationship`** command. The embed will display information such as who you are married to, the date and the friends you have.
 
 ![Relationship View](./images/relationship-view.png)
 
@@ -26,7 +22,7 @@ Now you can check the marriage status by running the **`/relationship view`** co
 :::
 
 ## Divorcing a User
-To divorce a user, you will need to run **`/relationship divorce`**. Then a confirmation embed will be sent which you will need to use to confirm with the buttons provided. You can provide the ID if you like to.
+To divorce a user, you will need to run **`/divorce`**. Then a confirmation embed will be sent which you will need to use to confirm with the buttons provided. You can provide the ID if you like to.
 
 ![Divorce](./images/divorce-confirm.png)
 
