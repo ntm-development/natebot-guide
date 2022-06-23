@@ -7,8 +7,8 @@ First, make sure that Nate Bot is online and running as expected:
 When there is a Green Dot and the Box shows "**Online**". It means Nate Bot is online.
 If Nate Bot is indeed offline, there are two places you can check the Status of Nate Bot:
 
-​- [Our Discord Server](https://discord.com/invite/G2rb53z) (Best Place)
-- [​Status Website​](https://uptime.ntmnathan.com/)
+- [​Status Website​](https://uptime.ntmnathan.com)
+- [Our Discord Server](https://discord.com/invite/G2rb53z)
 
 If we are aware that Nate Bot is down, you shouldn't be able to send messages or anywhere and there should be a Status message that is sent in our **`#status`** channel.
 

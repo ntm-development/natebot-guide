@@ -99,6 +99,7 @@ export default {
 				'/other/data-storage.md',
 				'/other/extra-statistics.md',
 				'/other/natebot-software.md',
+				'/other/api.md',
 			],
 		},
 	],

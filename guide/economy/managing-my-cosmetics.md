@@ -10,26 +10,32 @@ The profile command is a visual representation of the cosmetics and records comm
 
 ![Profile](./images/profile.png)
 
-## About Me
-This appears on the bottom of your profile card and you set it with **`/set info <text>`**. There can only be up to **116** characters with no profanity.
+## Editing your Profile Information
+When editing your profile, a modal will open and will ask you to fill in the fields. Never ever provide information that is sensitive as that information will be sent to Nate Bot once you submit the modal.
+
+![Modal](./images/modal.png)
+
+
+### About Me
+This appears on the bottom of your profile card and you set it with **`/set info`**. There can only be up to **116** characters with no profanity.
 
 ![About Me](./images/about-me.png)
 
-## Nickname
-This appears underneath your Discord Username and you set it with **`/set nickname <name>`**. There can only be up to **16** characters and costs **$450** to change it...
+### Nickname
+This appears underneath your Discord Username and you set it with **`/set nickname`**. There can only be up to **16** characters and costs **$450** to change it...
 
 ![Nickname](./images/nickname.png)
 
-## Background
+### Background
 Exclusive to Discord Nitro subscribers, users can place their Nitro Banner onto their Nate Bot profile card. Simply just run **`/set background`** and it will save and show on your profile. If it does not detect a Nitro Banner, it will default to the default background. Use at own risk.
 
 ![Nitro Background](./images/nitrobanner.png)
 
-## Location
-This appears next to your nickname and is changeable with **`/set location <country code>`**. By default it is Antarctica and the country code must be a ISO 3166 Alpha 2 format. See this [website](https://www.nationsonline.org/oneworld/country_code_list.htm) to find all the valid country codes.
+### Location
+This appears next to your nickname and is changeable with **`/set location`**. By default it is Antarctica and the country code must be a ISO 3166 Alpha 2 format. See this [website](https://www.nationsonline.org/oneworld/country_code_list.htm) to find all the valid country codes.
 
-## Color
-This appears on the side of the embed and as your profile overlay and you set it with the **`/set color <color hex>`**. You must provide a hex without the hashtag (#) and it is a **$650** fee to change it...
+### Color
+This appears on the side of the embed and as your profile overlay and you set it with the **`/set color`**. You must provide a hex without the hashtag (#) and it is a **$650** fee to change it...
 
 <DiscordMessages>
     <DiscordMessage profile="bot">
@@ -54,7 +60,7 @@ This appears on the side of the embed and as your profile overlay and you set it
     </DiscordMessage>
 </DiscordMessages>
 
-## Birthday
+### Birthday
 This appears on your profile and on the **`/view birthday`** command, it can be set with **`/set birthday <MM/DD/YYY>`**.
 
 ![Birthday](./images/birthday.png)

@@ -12,3 +12,7 @@ To earn bonuses, the following criteria must be met:
 - **Weekly**: After reaching streak 3, an extra between $1 and $2000 is added to your wallet.
 
 ![Streak Extra](./images/reward-extra.png)
+
+<hr>
+
+You can view your current streaks by typing **`/view streak`**

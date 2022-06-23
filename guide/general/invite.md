@@ -15,7 +15,7 @@ The invite link is found either by visiting the official website, bot list pages
 
 ![Step 1](./images/invite1.png)
 
-**Step 3:** Select permissions that you want Nate Bot granted to. We will never ask for **Administrator** and/or **Mention Everyone**. After you've selected the permissions, click on <kbd>Authorize</kbd>. You might need to complete a captcha before it's in your server.
+**Step 3:** Select the permissions that you want Nate Bot granted to. We will never ask for **Administrator** and/or **Mention Everyone**. After you've selected the permissions, click on <kbd>Authorize</kbd>. You might need to complete a captcha before it's in your server.
 
 ![Step 2](./images/invite2.png)
 

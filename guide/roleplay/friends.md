@@ -44,3 +44,13 @@ When you try to remove a user and Nate Bot cannot find the user, it will send a 
 The friends system is not complete without a bestie! You will need to run **`/friend setbf <user>`** and then that user will become your best friend. It will also show on your profile as well.
 
 ![Best Friend Embed](./images/bestfriend.png)
+
+## Favoriting a friend
+You can also favorite a friend by running **`/friend favorite <user>`**.
+
+![Favorite Friend](./images/friend-favorite-add.png)
+
+## Un-favoriting a friend
+You can un-favorite a friend by running **`/friend unfavorite <user>`**.
+
+![Unfavorite Friend](./images/friend-unfavorite.png)

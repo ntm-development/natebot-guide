@@ -1,11 +1,11 @@
 # Roleplay System Guide
 The Nate Bot roleplay system features a unique system that is not implemented by other bots before. It has a statistics system and the ability to simulate giving a "lovely" something (a hug for example) back, or rejecting it with the use of buttons.
 
-To start off, you will need to run one command:
+To start off, run a roleplay action command, for example:
 
-**`/give <type> <user>`**
+**`/hug <user>`**
 
-Then you need to select the type of roleplay action and a user.
+Then you will need to pick a member in the list (ID also works if they are in the server).
 
 ![Give Prep command](./images/give-command-preparation.png)
 

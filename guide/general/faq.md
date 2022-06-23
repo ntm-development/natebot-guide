@@ -1,7 +1,7 @@
 # Frequently asked Questions
 
 ### Can I see a list of commands?
-You can run `/help <category>` for a list of commands within a category. To get specific help on a command, run `/help <cmd> <name>`.
+You can run `/help category <name>` for a list of commands within a category. To get specific help on a command, run `/help command <name>`.
 
 ### Is there a way to change my profile background?
 You can purchase a profile background from the Economy Store. Run `/store backgrounds <category>` to view the available backgrounds. If you are a Nitro user, you can run `/set background` which will fetch for your Nitro banner and use it on your profile!
@@ -21,21 +21,20 @@ Some services do allow users to use alt accounts while some **don't allow them.*
 Using an alt account on Nate Bot is at your own risk, as long as you don't use them to boost your statistics or cheat in any way.
 
 ### How do I modify my profile details?
-`/set info <sentence>` will modify your **About Me** box.
-`/set nickname <nickname>` will modify your nickname which is underneath your username.
+Prepare the **`/set`** command and then pick the detail to edit, a modal will then display for you to fill out.
+
+`/set info` will modify your **About Me** box.
+`/set nickname` will modify your nickname which is underneath your username.
 `/set background` will fetch your Nitro Banner and use it as your profile background. (NITRO EXCLUSIVE)
-`/set color <hex>` will modify the embed color, overlay and other parts of your profile.
-`/set location <value>` will set a country. Defaults to Antarctica.
-`/set birthday <MM/DD/YYYY>` will set your birthday.
+`/set color` will modify the embed color, overlay and other parts of your profile.
+`/set location` will set a country. Defaults to Antarctica.
+`/set birthday` will set your birthday.
 
 ### Can I spam commands?
 Please do not spam commands. Discord doesn't encourage it and cooldowns are enforced on all users.
 
-### I saw a Partners page on the Nate Bot Website. Can I apply for partnership?
-Yes and No. There is certain criteria for partnership.
-
 ### Do you have a source code link?
-Nate Bot runs on code that is completely custom and designed in house, therefore the source code is closed.
+Nate Bot runs on code that is completely custom and designed in house, therefore the source code is not available.
 
 ### Nate Bot has a lot of features that many popular bots have but why the small server count?
 While we don't really mind or care about other Bot Server counts, the features it has and everything else, we do care about having Nate Bot be a bot for everyone to enjoy! That is bringing in the best features, commands and updates. We are a small team working hard and maintaining the bot.
